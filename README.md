@@ -6,7 +6,6 @@ This is a simple macOS service that copies a path of a selected file to the syst
 
 * Clone this repository.
 * Pick one of the `workflow` packages and copy it either to `~/Library/Services` (only for current user), or to `/Library/Services` for all users.
-* Rename the package to the name you want to see in the `Services` menu.
 * Select a file in Finder.
 * Find your service in the `Finder › Services` menu.
 
